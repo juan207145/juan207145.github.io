@@ -1,0 +1,4 @@
+   User-agent: *
+   Allow: /
+
+   Sitemap: https://juan207145.github.io/sitemap.xml
